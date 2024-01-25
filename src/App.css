@@ -1,4 +1,17 @@
 .card {
   border: 1px solid black;
+  border-radius: 10px;
+  padding: 16px;
+  box-shadow: 4px 4px rgb(65, 65, 65);
+  text-align: center;
   
+}
+
+.card > h2 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 35px;
+}
+
+.card > img {
+  border-radius: 10px;
 }
